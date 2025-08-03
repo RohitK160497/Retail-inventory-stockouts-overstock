@@ -60,12 +60,16 @@ This project answers:
 ## 📸 Sample Outputs
 
 ### 📊 Inventory vs LMIL & UMIL
-(<img width="1784" height="784" alt="Inventory vs LMIL   UMIL" src="https://github.com/user-attachments/assets/3575e1fd-5ee6-4675-a2ef-1b8d5e333473" />
-)
+<img width="1784" height="784" alt="Inventory vs LMIL   UMIL" src="https://github.com/user-attachments/assets/3575e1fd-5ee6-4675-a2ef-1b8d5e333473" />
+
 
 ### 📈 Example Demand Forecast Plot for p1
-(<img width="1189" height="490" alt="Demand Forecast Plot for p1" src="https://github.com/user-attachments/assets/36b8b7b2-b2a9-45cf-8864-0d46e73c8c04" />
-)
+<img width="1189" height="490" alt="Demand Forecast Plot for p1" src="https://github.com/user-attachments/assets/36b8b7b2-b2a9-45cf-8864-0d46e73c8c04" />
+
+### Streamlit dashboard Example
+<img width="1919" height="901" alt="Streamlit Dashboard" src="https://github.com/user-attachments/assets/cafefb40-a7ca-4e42-9d5d-5bf23e2305be" />
+
+
 
 ---
 
